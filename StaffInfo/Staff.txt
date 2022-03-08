@@ -1,0 +1,8 @@
+St000000:lim:lim:Ryan:Lim:male:8, Jalan Bukit Indah 3/21, 68000 Ampang, Selangor:ryanrlfy33@gmail.com:04-09-2001:014-6321806:false
+St000001:john:lim:John:Taylor:Female:8, Jalan Bukit Indah 3/21, 68000 Ampang, Selangor:john@mail.com:04-09-2001:019-2938044:false
+St000002:jason:lim:Jason:Mraz:Female:8, Jalan Bukit Indah 3/21, 68000 Ampang, Selangor:jason@mail.com:04-09-2001:019-2234567:false
+St000003:racheal:racheal:Racheal:Lim:Female:Jalan Ampang:racheal@live.com:03-02-2002:019-99999999:false
+St000004:chong:chong:John:Chong:Male:KL:jason@mail.com:09-09-01:018-8898283:false
+St000005:ryan:ryan:Ryan:Lim :female:8, Jalan Ampang:lim@mail.com:04-09-2001:019-22398372:false
+St000006:ivan:ivan:Ivan:Wong:female:Jalan Bukit Nanas:ivan@gmail.com:09-09-2007:011-9201932:false
+

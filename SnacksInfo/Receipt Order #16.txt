@@ -1,0 +1,28 @@
+Receipt Order #16
+
+Consumer: Guest
+Date: 2021-04-25
+Time: 16:26:09
+
+
+Purchased Snack Items: 
+
+Snack Name			Snack Quantity			Snack Unit Price			Snack Total Price:			
+Apollo Chocolate			          0				       RM2.00			            RM0
+Kit Kat Chocolate			          1				       RM2.00			            RM2.00
+Pringles Orginal			          0				       RM7.00			            RM0
+Pringles Cream			          0				       RM7.00			            RM0
+Pringles Cheese			          0				       RM7.50			            RM0
+Crysanthenum Tea			          0				       RM3.00			            RM0
+Ice Lemon Tea			          0				       RM3.00			            RM0
+Winter Melon Tea			          0				       RM5.00			            RM0
+MM Chocolate			          0				       RM2.00			            RM0
+
+Total Price:	RM2.00
+Paid Amount:	RM5.00
+Change Amount:	RM3.00
+
+
+
+All rights reserved by owner of SnackNow Vending Machine, Ryan Lim Fang Yung
+For more enquiries, contact me at tp055343@mail.apu.edu.my

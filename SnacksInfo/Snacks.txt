@@ -1,0 +1,9 @@
+Sn000000>Apollo Chocolate>30>2.00>C:\Users\admin\Desktop\Java Programs\VendingMachine\SnackImages\apollo_chocolate.jpg>false
+Sn000001>Kit Kat Chocolate>16>2.00>C:\Users\admin\Desktop\Java Programs\VendingMachine\SnackImages\kitkat_chocolate.jpg>false
+Sn000002>Pringles Orginal>19>7.00>C:\Users\admin\Desktop\Java Programs\VendingMachine\SnackImages\pringles_original.jpg>false
+Sn000003>Pringles Cream>30>7.00>C:\Users\admin\Desktop\Java Programs\VendingMachine\SnackImages\pringles_sour_cream.jpg>false
+Sn000004>Pringles Cheese>27>7.50>C:\Users\admin\Desktop\Java Programs\VendingMachine\SnackImages\pringles_cheddar_cheese.jpg>false
+Sn000005>Crysanthenum Tea>30>3.00>C:\Users\admin\Desktop\Java Programs\VendingMachine\SnackImages\chrysanthenum_tea.png>false
+Sn000006>Ice Lemon Tea>30>3.00>C:\Users\admin\Desktop\Java Programs\VendingMachine\SnackImages\ice_lemon_tea.jpg>false
+Sn000007>Winter Melon Tea>30>5.00>C:\Users\admin\Desktop\Java Programs\VendingMachine\SnackImages\winter_melon_tea.png>false
+Sn000008>MM Chocolate>30>2.00>C:\Users\admin\Desktop\Java Programs\VendingMachine\SnackImages\mm_chocolate.jpg>false
